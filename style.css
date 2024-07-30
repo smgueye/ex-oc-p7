@@ -1,0 +1,18 @@
+.app__filters, .app__user-cards {
+    display: flex;
+
+    width: 100%;
+}
+
+.app__filter {
+    margin: 10px 5px;
+}
+
+.user-card {
+    border: 1px solid lightgray;
+
+    width: 175px;
+
+    margin: 0 10px;
+    padding: 5px;
+}
